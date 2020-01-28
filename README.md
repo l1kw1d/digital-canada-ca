@@ -1,3 +1,4 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/cds-snc/digital-canada-ca/badge.svg?targetFile=package.json)](https://snyk.io/test/github/cds-snc/digital-canada-ca?targetFile=package.json)
 [La version française suit.](#---------------------------------------------------------------------)
 
 # Canadian Digital Service website - [digital.canada.ca](https://digital.canada.ca)
